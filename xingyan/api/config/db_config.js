@@ -1,0 +1,9 @@
+module.exports={
+    dev_db:{
+        host:"localhost",
+        user:"root",
+        password:"dongdong1126.",
+        port:3306,
+        database:"blog_sql"
+    }
+}
